@@ -6,4 +6,3 @@ ZhiYang:
 - 使用 git push origin -d <remote-branch-name> 删除 remote branch
 - 在 765baf0 新增一个 Commit
 - 测试二段内容
-- Debug 内容，这段内容不应该输出
